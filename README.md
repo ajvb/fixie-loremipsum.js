@@ -1,8 +1,8 @@
-# Fixie.js
+# Fixie-LoremIspum.js
 
-Fixie is an open source tool that that automatically adds filler content to HTML documents. It's very simple, and we welcome contributions.
+A fork of the original [fixie.js](https://github.com/ryhan/fixie), but instead it utilizes the original two paragraphs of the [Lorem Ipsum](http://ipsum.com) rather than a collection of random words.
 
-To learn more, check out  [fixiejs.com](http://www.fixiejs.com "fixiejs") 
+##Below is the rest of the README from the original fixie.js. [Make sure to check it out](https://github.com/ryhan/fixie)
 
 ### Why use Fixie?
 When designing and developing websites, it's often useful to add lorem ipsum text to see what your page will look like without worrying about your final content.
